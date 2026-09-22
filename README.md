@@ -1,5 +1,5 @@
 <h2 align="center" style="font-family: 'Times New Roman', Times, serif;">
-  . ݁₊ ⊹ . ݁˖ . ݁ Hello! . ݁₊ ⊹ . ݁˖ . ݁
+  . ݁₊ ⊹ . ݁˖ . ݁ Hello! . ݁˖ . ݁. ݁₊ ⊹
 </h2>
 
 <p align="center" style="font-family: 'Times New Roman', Times, serif;">
